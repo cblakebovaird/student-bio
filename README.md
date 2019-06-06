@@ -23,9 +23,9 @@
 <h2>Contact Info</h2>
 
 <ul>
-    <li>Email:</li>
-    <li>Github:</li>
-    <li>Portfolio:</li>
+    <li>Email:<strong><a href="cblakebovaird@gmail.com" target="_blank"> cblakebovaird@gmail.com</a></strong></li>
+    <li>Github:<strong><a href="">Coming soon</a></strong></li>
+    <li>Portfolio:<strong><a href="">Coming soon</a></strong></li>
 
 </ul>
 
